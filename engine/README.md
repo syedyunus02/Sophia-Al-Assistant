@@ -24,11 +24,15 @@ Languages:
 FrameWork:
 
 ![image alt](https://github.com/syedyunus02/Sophia-Al-Assistant/blob/main/engine/Screenshot%202026-10-20%20090249.png?raw=true)
+
 Database:
-SQLite
+![image alt](https://github.com/syedyunus02/Sophia-Al-Assistant/blob/main/Screenshot%202026-10-20%20090710.png?raw=true)
+
 API used for:
 Hugging Face API Hugging Face API
-Installation
+
+#Installation
+
 Prerequisites
 Make sure you have Python installed. Then, install the following packages:
 
