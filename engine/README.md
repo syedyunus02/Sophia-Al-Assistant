@@ -6,7 +6,7 @@ You can check out the demo by clicking on the below image
 
 Demo Video
 
-
+![image alt](https://raw.githubusercontent.com/syedyunus02/Sophia-Al-Assistant/4f2cf5a2c73a6faa2b05f867287d02a8ded8f6ce/engine/Screenshot%202026-10-20%20084134.png)
 Features
 Voice Activation: Activate Sophia by saying "Sophia."
 Text Input: Type your queries and press enter to receive a response.
