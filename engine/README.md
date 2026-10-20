@@ -1,26 +1,31 @@
-Sophia AI Assistant
+# Sophia AI Assistant
 Sophia is a desktop AI assistant built using Python that can perform various tasks such as answering questions like ChatGPT, opening desktop applications, browsing websites, and even making phone and WhatsApp calls. This project is designed to be versatile and extensible, with the ability to add more functionalities easily. It integrates the Hugging Face API, a free ChatGPT alternative to simulate conversation, and offers multiple activation methods for user commands.
 
 Demo Video
 You can check out the demo by clicking on the below image
 
-Demo Video
-
 ![image alt](https://raw.githubusercontent.com/syedyunus02/Sophia-Al-Assistant/4f2cf5a2c73a6faa2b05f867287d02a8ded8f6ce/engine/Screenshot%202026-10-20%20084134.png)
-Features
-Voice Activation: Activate Sophia by saying "Sophia."
-Text Input: Type your queries and press enter to receive a response.
-App Control: Open applications like Notepad and OneNote.
-Website Navigation: Open websites like YouTube and Canva.
-Multimedia Control: Search and play specific videos on YouTube.
-Phone and WhatsApp Communication: Make calls or send messages.
-Technology Used:
+
+
+# Features
+*Voice Activation: Activate Sophia by saying "Sophia."
+*Text Input: Type your queries and press enter to receive a response.
+*App Control: Open applications like Notepad and OneNote.
+*Website Navigation: Open websites like YouTube and Canva.
+*Multimedia Control: Search and play specific videos on YouTube.
+*Phone and WhatsApp Communication: Make calls or send messages.
+
+# Technology Used:
+
 Languages:
-PYTHON
-HTML
-CSS
-JAVASCRIPT
+
+*PYTHON
+*HTML
+*CSS
+*JAVASCRIPT
+
 FrameWork:
+
 BOOTSTRAP
 Database:
 SQLite
