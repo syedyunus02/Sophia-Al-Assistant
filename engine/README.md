@@ -163,37 +163,36 @@ cd sophia-ai-assistant
 
 # Usage
 
-Activating the Assistant
-
+## Activating the Assistant
 There are several ways to activate Sophia:
 
 *Voice Activation: Simply say "Sophia."
 *Text Input: Type your query in the input box (e.g., "How are you?").
 *Keyboard Shortcut: Press Window + J to activate the assistant.
 
-Supported Commands:
+## Supported Commands:
 
 Query Answering
 
 Ask Sophia questions, and she'll answer using the Hugging Face API, a free ChatGPT alternative. Example: "Tell me about yourself"
 
-Opening Applications:
+## Opening Applications:
 
 "Open Notepad"
 
 "Open OneNote"
 
-Website Navigation:
+## Website Navigation:
 
 "Open YouTube"
 
 "Open Canva"
 
-Multimedia Search:
+## Multimedia Search:
 
 "Play the video of the 99 names of Allah on YouTube"
 
-Phone and Messaging:
+## Phone and Messaging:
 
 "Sophia, make a phone call to Syed"
 
