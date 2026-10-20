@@ -40,62 +40,117 @@ Hugging Face API Hugging Face API
 
 Make sure you have Python installed. Then, install the following packages:
 
-beautifulsoup4==4.12.3
+beautifulsoup4==4.12.
 blinker==1.8.2
+
 bottle @ git+https://github.com/bottlepy/bottle.git@3fdb8b2a2e0d1641374b53ef2b051fe7f54508b5
+
 bottle-websocket==0.2.9
+
 certifi==2024.7.4
+
 cffi==1.16.0
+
 charset-normalizer==3.3.2
+
 click==8.1.7
+
 colorama==0.4.6
+
 comtypes==1.4.4
+
 Eel==0.16.0
+
 enum34==1.1.10
+
 Flask==3.0.3
+
 future==1.0.0
+
 gevent==24.2.1
+
 gevent-websocket==0.10.1
+
 greenlet==3.0.3
+
 hugchat==0.4.8
+
 idna==3.7
+
 itsdangerous==2.2.0
+
 Jinja2==3.1.4
+
 MarkupSafe==2.1.5
+
 MouseInfo==0.1.3
+
 numpy==2.0.0
+
 pillow==10.4.0
+
 playsound==1.2.2
+
 pocketsphinx==5.0.3
+
 psutil==6.0.0
+
 pvporcupine==1.9.5
+
 PyAudio==0.2.14
+
 PyAutoGUI==0.9.54
+
 pycparser==2.22
+
 PyGetWindow==0.0.9
+
 PyMsgBox==1.0.9
+
 pyparsing==3.1.2
+
 pyperclip==1.9.0
+
 pypiwin32==223
+
 PyRect==0.2.0
+
 PyScreeze==0.1.30
+
 pyttsx3==2.90
+
 pytweening==1.2.0
+
 pywhatkit==5.4
+
 pywin32==306
+
 requests==2.32.3
+
 requests-toolbelt==1.0.0
+
 setuptools==70.2.0
+
 sounddevice==0.4.7
+
 soupsieve==2.5
+
 SpeechRecognition==3.10.4
+
 typing_extensions==4.12.2
+
 urllib3==2.2.2
+
 Werkzeug==3.0.3
+
 whichcraft==0.6.1
+
 wikipedia==1.4.0
+
 zope.event==5.0
+
 zope.interface==6.4.post2
+
 # Setup Instructions
 ## Clone the Repository:
 
@@ -145,5 +200,5 @@ Customizable Settings: Implement user-configurable settings for a more personali
 # Contributing
 Feel free to open issues or submit pull requests to improve the project. Contributions are welcome, whether it’s adding new features, fixing bugs, or improving documentation.
 
-Feedback
-If you have any suggestions or want to request additional features, leave a comment on the YouTube tutorial series. Your feedback is highly appreciated!**
+# Feedback
+If you have any suggestions or want to request additional features, send a email. Your feedback is highly appreciated!**
