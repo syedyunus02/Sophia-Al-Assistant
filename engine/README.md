@@ -31,7 +31,7 @@ Database:
 
 API used for
 
-*Hugging Face API Hugging Face API
+Hugging Face API Hugging Face API
 
 
 # Installation
@@ -179,33 +179,36 @@ Ask Sophia questions, and she'll answer using the Hugging Face API, a free ChatG
 
 Opening Applications:
 
-*"Open Notepad"
-*"Open OneNote"
+"Open Notepad"
+
+"Open OneNote"
 
 Website Navigation:
 
-*"Open YouTube"
+"Open YouTube"
 
-*"Open Canva"
+"Open Canva"
 
 Multimedia Search:
 
-*"Play the video of the 99 names of Allah on YouTube"
+"Play the video of the 99 names of Allah on YouTube"
 
 Phone and Messaging:
 
-*"Sophia, make a phone call to Syed"
+"Sophia, make a phone call to Syed"
 
-*"Sophia, send a message to Syed"
+"Sophia, send a message to Syed"
 
-*"Sophia, make a video call on WhatsApp"
+"Sophia, make a video call on WhatsApp"
 
 
 Future Enhancements:
 
-*Custom Application and Website Management: Users will be able to add their applications and websites without needing to work with databases or SQL.
-*Expanded Application Support: Add support for more desktop and web applications.
-*Customizable Settings: Implement user-configurable settings for a more personalized experience.
+Custom Application and Website Management: Users will be able to add their applications and websites without needing to work with databases or SQL.
+
+Expanded Application Support: Add support for more desktop and web applications
+
+Customizable Settings: Implement user-configurable settings for a more personalized experience.
 
 Contributing:
 
