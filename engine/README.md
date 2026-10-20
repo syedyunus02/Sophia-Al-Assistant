@@ -19,10 +19,7 @@ You can check out the demo by clicking on the below image
 
 Languages:
 
-*PYTHON
-*HTML
-*CSS
-*JAVASCRIPT
+![image alt](https://github.com/syedyunus02/Sophia-Al-Assistant/blob/main/Screenshot%202026-10-20%20085758.png?raw=true)
 
 FrameWork:
 
