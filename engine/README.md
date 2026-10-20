@@ -109,64 +109,104 @@ PyGetWindow==0.0.9
 PyMsgBox==1.0.9
 
 pyparsing==3.1.2
+
 pyperclip==1.9.0
+
 pypiwin32==223
+
 PyRect==0.2.0
+
 PyScreeze==0.1.30
+
 pyttsx3==2.90
+
 pytweening==1.2.0
+
 pywhatkit==5.4
+
 pywin32==306
+
 requests==2.32.3
+
 requests-toolbelt==1.0.0
+
 setuptools==70.2.0
+
 sounddevice==0.4.7
+
 soupsieve==2.5
+
 SpeechRecognition==3.10.4
+
 typing_extensions==4.12.2
+
 urllib3==2.2.2
+
 Werkzeug==3.0.3
+
 whichcraft==0.6.1
+
 wikipedia==1.4.0
+
 zope.event==5.0
+
 zope.interface==6.4.post2
-Setup Instructions
+
+# Setup Instructions
+
 Clone the Repository:
 
-git clone https://github.com/yourusername/sophia-ai-assistant.git
-cd sophia-ai-assistant
-To install the necessary dependencies and set up the API and database, I recommend checking out my YouTube tutorial series where I walk you through the entire process of building an AI assistant.
 
-📺 Watch the Full YouTube Tutorial Series
-Usage
+git clone https://github.com/yourusername/sophia-ai-assistant.git
+
+cd sophia-ai-assistant
+
+# Usage
+
 Activating the Assistant
+
 There are several ways to activate Sophia:
 
-Voice Activation: Simply say "Sophia."
-Text Input: Type your query in the input box (e.g., "How are you?").
-Keyboard Shortcut: Press Window + J to activate the assistant.
-Supported Commands
+*Voice Activation: Simply say "Sophia."
+*Text Input: Type your query in the input box (e.g., "How are you?").
+*Keyboard Shortcut: Press Window + J to activate the assistant.
+
+Supported Commands:
+
 Query Answering
+
 Ask Sophia questions, and she'll answer using the Hugging Face API, a free ChatGPT alternative. Example: "Tell me about yourself"
 
-Opening Applications
-"Open Notepad"
-"Open OneNote"
-Website Navigation
-"Open YouTube"
-"Open Canva"
-Multimedia Search
-"Play the video of the 99 names of Allah on YouTube"
-Phone and Messaging
-"Sophia, make a phone call to Ali Hassan"
-"Sophia, send a message to Ali Hassan"
-"Sophia, make a video call on WhatsApp"
-Future Enhancements
-Custom Application and Website Management: Users will be able to add their applications and websites without needing to work with databases or SQL.
-Expanded Application Support: Add support for more desktop and web applications.
-Customizable Settings: Implement user-configurable settings for a more personalized experience.
-Contributing
-Feel free to open issues or submit pull requests to improve the project. Contributions are welcome, whether it’s adding new features, fixing bugs, or improving documentation.
+Opening Applications:
 
-Feedback
-If you have any suggestions or want to request additional features, leave a comment on the YouTube tutorial series. Your feedback is highly appreciated!
+*"Open Notepad"
+*"Open OneNote"
+
+Website Navigation:
+
+*"Open YouTube"
+*"Open Canva"
+
+Multimedia Search:
+
+*"Play the video of the 99 names of Allah on YouTube"
+
+Phone and Messaging:
+
+*"Sophia, make a phone call to Syed"
+*"Sophia, send a message to Syed"
+*"Sophia, make a video call on WhatsApp"
+
+Future Enhancements:
+
+*Custom Application and Website Management: Users will be able to add their applications and websites without needing to work with databases or SQL.
+*Expanded Application Support: Add support for more desktop and web applications.
+*Customizable Settings: Implement user-configurable settings for a more personalized experience.
+
+Contributing:
+
+*Feel free to open issues or submit pull requests to improve the project. Contributions are welcome, whether it’s adding new features, fixing bugs, or improving documentation.
+
+Feedback:
+
+If you have any suggestions or want to request additional features, send a mail. Your feedback is highly appreciated!
