@@ -185,6 +185,7 @@ Opening Applications:
 Website Navigation:
 
 *"Open YouTube"
+
 *"Open Canva"
 
 Multimedia Search:
@@ -194,8 +195,11 @@ Multimedia Search:
 Phone and Messaging:
 
 *"Sophia, make a phone call to Syed"
+
 *"Sophia, send a message to Syed"
+
 *"Sophia, make a video call on WhatsApp"
+
 
 Future Enhancements:
 
