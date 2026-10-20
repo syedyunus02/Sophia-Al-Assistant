@@ -202,7 +202,7 @@ Phone and Messaging:
 "Sophia, make a video call on WhatsApp"
 
 
-Future Enhancements:
+# Future Enhancements:
 
 Custom Application and Website Management: Users will be able to add their applications and websites without needing to work with databases or SQL.
 
@@ -210,10 +210,10 @@ Expanded Application Support: Add support for more desktop and web applications
 
 Customizable Settings: Implement user-configurable settings for a more personalized experience.
 
-Contributing:
+# Contributing:
 
 *Feel free to open issues or submit pull requests to improve the project. Contributions are welcome, whether it’s adding new features, fixing bugs, or improving documentation.
 
-Feedback:
+# Feedback:
 
 If you have any suggestions or want to request additional features, send a mail. Your feedback is highly appreciated!
