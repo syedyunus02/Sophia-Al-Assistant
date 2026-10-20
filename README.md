@@ -4,7 +4,7 @@ Sophia is a desktop AI assistant built using Python that can perform various tas
 ## Demo Video
 You can check out the demo by clicking on the below image
 
-[!image alt](https://github.com/syedyunus02/Sophia-Al-Assistant/blob/main/Screenshot%202026-10-20%20084134.png?raw=true)
+![image alt](https://github.com/syedyunus02/Sophia-Al-Assistant/blob/main/Screenshot%202026-10-20%20084134.png?raw=true)
 ## Features
 Voice Activation: Activate Sophia by saying "Sophia."
 Text Input: Type your queries and press enter to receive a response.
