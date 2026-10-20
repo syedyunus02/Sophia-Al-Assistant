@@ -22,8 +22,7 @@ Languages:
 ![image alt](https://github.com/syedyunus02/Sophia-Al-Assistant/blob/main/Screenshot%202026-10-20%20085758.png?raw=true)
 
 FrameWork:
-
-BOOTSTRAP
+![image alt](https://github.com/syedyunus02/Sophia-Al-Assistant/blob/main/engine/Screenshot%202026-10-20%20090249.png?raw=true)
 Database:
 SQLite
 API used for:
