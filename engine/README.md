@@ -17,26 +17,26 @@ You can check out the demo by clicking on the below image
 
 # Technology Used:
 
-Languages:
+## Languages:
 
 ![image alt](https://github.com/syedyunus02/Sophia-Al-Assistant/blob/main/Screenshot%202026-10-20%20085758.png?raw=true)
 
-FrameWork:
+## FrameWork:
 
 ![image alt](https://github.com/syedyunus02/Sophia-Al-Assistant/blob/main/engine/Screenshot%202026-10-20%20090249.png?raw=true)
 
-Database:
+## Database:
 
 ![image alt](https://github.com/syedyunus02/Sophia-Al-Assistant/blob/main/Screenshot%202026-10-20%20090710.png?raw=true)
 
-API used for
+## API used for
 
 Hugging Face API Hugging Face API
 
 
 # Installation
 
-Prerequisites
+## Prerequisites
 
 Make sure you have Python installed. Then, install the following packages:
 
@@ -154,7 +154,7 @@ zope.interface==6.4.post2
 
 # Setup Instructions
 
-Clone the Repository:
+## Clone the Repository:
 
 
 git clone https://github.com/yourusername/sophia-ai-assistant.git
